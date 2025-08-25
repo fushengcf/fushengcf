@@ -4,10 +4,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fushengcf&show_icons=true&theme=algolia)
 
-<p>
+<!-- <p>
   <div>浏览人数:</div>
   <img src="https://profile-counter.glitch.me/fushengcf/count.svg" />
-</p>
+</p> -->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fushengcf&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fushengcf&theme=github_dark)
