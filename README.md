@@ -30,19 +30,4 @@
 <!--  全宽贡献详情 -->
 <img src="https://raw.githubusercontent.com/fushengcf/fushengcf/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="100%" />
 
-<!--  代表作（GitHub 官方 OpenGraph 卡片） -->
-### 🔥 代表作
-<a href="https://github.com/fushengcf/yew_vant">
-  <img width="49%" src="https://opengraph.githubassets.com/1/fushengcf/yew_vant" alt="yew_vant" />
-</a>
-<a href="https://github.com/fushengcf/yew_element">
-  <img width="49%" src="https://opengraph.githubassets.com/1/fushengcf/yew_element" alt="yew_element" />
-</a>
-<a href="https://github.com/fushengcf/fence-c">
-  <img width="49%" src="https://opengraph.githubassets.com/1/fushengcf/fence-c" alt="fence-c" />
-</a>
-<a href="https://github.com/fushengcf/chrome_test">
-  <img width="49%" src="https://opengraph.githubassets.com/1/fushengcf/chrome_test" alt="chrome_test" />
-</a>
-
 </div>
