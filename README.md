@@ -22,12 +22,4 @@
 <!--  贪吃蛇吃掉贡献格 -->
 <img src="https://raw.githubusercontent.com/fushengcf/fushengcf/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 
-<!--  三联卡：连续提交 / 统计 / 语言（卡片由仓库内 Action 自生成，不依赖第三方服务） -->
-<img height="165" src="https://streak-stats.demolab.com?user=fushengcf&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
-<img height="165" src="https://raw.githubusercontent.com/fushengcf/fushengcf/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
-<img height="165" src="https://raw.githubusercontent.com/fushengcf/fushengcf/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" />
-
-<!--  全宽贡献详情 -->
-<img src="https://raw.githubusercontent.com/fushengcf/fushengcf/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="100%" />
-
 </div>
