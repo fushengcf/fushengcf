@@ -22,30 +22,27 @@
 <!--  贪吃蛇吃掉贡献格 -->
 <img src="https://raw.githubusercontent.com/fushengcf/fushengcf/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 
-<!--  三联卡：统计 / 连续提交 / 语言 -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=fushengcf&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+<!--  三联卡：连续提交 / 统计 / 语言（卡片由仓库内 Action 自生成，不依赖第三方服务） -->
 <img height="165" src="https://streak-stats.demolab.com?user=fushengcf&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fushengcf&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=JKVideo,Zhiliao,claude-code-sourcemap" alt="Top Languages" />
+<img height="165" src="https://raw.githubusercontent.com/fushengcf/fushengcf/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
+<img height="165" src="https://raw.githubusercontent.com/fushengcf/fushengcf/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" />
 
-<!--  奖杯 -->
-<img src="https://github-profile-trophy.vercel.app/?username=fushengcf&theme=tokyonight&no-frame=true&no-bg=true&column=7&rank=SSS,SS,S,AAA,AA,A&margin-w=8" alt="Trophy" width="100%" />
+<!--  全宽贡献详情 -->
+<img src="https://raw.githubusercontent.com/fushengcf/fushengcf/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="100%" />
 
-<!--  活跃度曲线 -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fushengcf&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Rhythm" alt="Activity Graph" width="100%" />
-
-<!--  代表作 -->
+<!--  代表作（GitHub 官方 OpenGraph 卡片） -->
 ### 🔥 代表作
 <a href="https://github.com/fushengcf/yew_vant">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=fushengcf&repo=yew_vant&theme=tokyonight&hide_border=true&show_owner=false" alt="yew_vant" />
+  <img width="49%" src="https://opengraph.githubassets.com/1/fushengcf/yew_vant" alt="yew_vant" />
 </a>
 <a href="https://github.com/fushengcf/yew_element">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=fushengcf&repo=yew_element&theme=tokyonight&hide_border=true&show_owner=false" alt="yew_element" />
+  <img width="49%" src="https://opengraph.githubassets.com/1/fushengcf/yew_element" alt="yew_element" />
 </a>
 <a href="https://github.com/fushengcf/fence-c">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=fushengcf&repo=fence-c&theme=tokyonight&hide_border=true&show_owner=false" alt="fence-c" />
+  <img width="49%" src="https://opengraph.githubassets.com/1/fushengcf/fence-c" alt="fence-c" />
 </a>
 <a href="https://github.com/fushengcf/chrome_test">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=fushengcf&repo=chrome_test&theme=tokyonight&hide_border=true&show_owner=false" alt="chrome_test" />
+  <img width="49%" src="https://opengraph.githubassets.com/1/fushengcf/chrome_test" alt="chrome_test" />
 </a>
 
 </div>
